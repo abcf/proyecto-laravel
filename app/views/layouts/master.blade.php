@@ -4,7 +4,7 @@
 </head>
 <body>
 	@section('sidebar')
-	CodeHero Laravel 4 Gestion de Usuarios -
+	CodeHero Laravel 4 Gestion de Usuarios
 	@show
 	<div class="container">
 		@yield('content')
